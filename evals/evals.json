@@ -1,0 +1,23 @@
+{
+  "skill_name": "siri-ip-series-wanxiang",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "帮我从零创建一个兽人战士IP角色，风格是写实魔幻风",
+      "expected_output": "生成3张不同风格兽人战士概念图供选择，选定后生成三视图+全系列成果，符合Wan-skills异步调用规范",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "帮我把这张小黄鸭图片生成专业3D建模三视图",
+      "expected_output": "生成8K精度白底带网格的标准三视图（正面/侧面/背面），严格锁定原图特征，不做修改",
+      "files": ["C:/Users/User/.openclaw/media/inbound/af7122bf-6e9c-4cc2-8daf-26087588117e.jpg"]
+    },
+    {
+      "id": 3,
+      "prompt": "基于这个三视图生成全系列文创周边",
+      "expected_output": "生成3种风格转换、动作九宫格、文创九宫格、表情包、动态视频、HTML打包，所有节点通过Wan-skills异步调用",
+      "files": ["C:/Users/User/.openclaw/workspace/skills/siri-ip-series-wanxiang/output/giraffe_3view.jpg"]
+    }
+  ]
+}

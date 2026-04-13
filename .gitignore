@@ -1,0 +1,21 @@
+# Environments
+.env
+.env.*
+!.env.example
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Backups and temporary files
+*.backup
+*.*.bak
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>AccessDenied</Code>
+  <Message>You have no right to access this object because of bucket acl.</Message>
+  <RequestId>69DC94D0A6D88A08D1AC5229</RequestId>
+  <HostId>dashscope-7c2c.oss-accelerate.aliyuncs.com</HostId>
+  <EC>0003-00000001</EC>
+  <RecommendDoc>https://api.aliyun.com/troubleshoot?q=0003-00000001</RecommendDoc>
+</Error>
